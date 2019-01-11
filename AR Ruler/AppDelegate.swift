@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AR Ruler
 //
-//  Created by Ray Berry on 09/04/2018.
+//  Created by James and Ray Berry on 09/04/2018.
 //  Copyright © 2018 JARBerry. All rights reserved.
 //
 
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
